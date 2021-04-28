@@ -43,6 +43,8 @@ public class BrowserLaunch {
 		date.sendKeys("17-Apr-2021");
 		WebElement btn = driver.findElement(By.id("search_btn"));
 		btn.click();
+		//sysout
+		
 		
 //				Actions s=new Actions(driver);
 //s.contextClick(btnClick).perform();
